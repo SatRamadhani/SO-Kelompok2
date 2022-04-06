@@ -1,2 +1,8 @@
 # SO-Kelompok2
-Tugas Kelompok 02 - Sistem Operasi
+
+Kelompok 02 - C2
+- Ahmad Muflih Ibnu Mustofa Khalilurrahman
+- Andhika Dzikri Fadhilah
+- Andum Pangestu
+- Mohammad Ray Mosaid
+- Muhammad Satria Ramadhani
